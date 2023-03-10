@@ -1,1 +1,6 @@
+Esto es lo corecto, lo otro no
+<<<<<<< HEAD
 para generar el conflicto
+=======
+buscando conflicto
+>>>>>>> 3037d2ef1b9b1bd0b0db17c3d3b2706e8ebf5a49
